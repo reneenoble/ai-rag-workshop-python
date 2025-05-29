@@ -1,13 +1,13 @@
-# AI and RAG Sample for Teaching, Learing, and Playing!
+# AI and RAG Sample for Learing, Playing, and Teaching!
 
 This sample includes a step by step process for dissolving the idea that AI is magic!
 
 It shows you how you can start using GitHub Models to get free access to GPT tech.
-This has a bunch of steps you can explore with kids. I've provided all the code, but you could strip out any parts you would rather get your students coding themsleves. Or use the code as speed run to have a quick play with AI by changing the tone and manipulating the data. 
+This has a bunch of steps you can explore and fiddle with.
 
 You'll find in here Python code to play with AI both in the form of a step by step workshop plan in a Jupyter Notebook (.ipynb), as well as a Python (.py) file to see how it all comes together.
 
-You can also find my slides from PyCon AU in this repo that you can use for your own learning, or with your class. I'll put the video of the conference talk up when it's released.
+You can also find my slides from PyCon AU and from Sydney Python Meetup in this repo that you can use. 
 
 ## In the workshop...
 
